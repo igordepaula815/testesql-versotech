@@ -72,6 +72,6 @@ Os resultados de cada query estão de acordo com os exemplos fornecidos no teste
 
 ---
 
-**Autor:** Igor Silva  
-**LinkedIn/GitHub:** [seu-link-aqui]
+Igor Silva  
+
 
